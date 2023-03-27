@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+  /* outline: 2px solid black; */
+}
+
+html{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+  margin: 5px;
+  background-color: rgba(225, 0, 255, 0.37);
+  
+}
+
+.App > h2{
+  text-align: center;
+}

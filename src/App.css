@@ -1,0 +1,7 @@
+.App > h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+    color: rgb(199, 0, 133);
+    font-size: xx-large;
+}
